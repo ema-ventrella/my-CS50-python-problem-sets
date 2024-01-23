@@ -82,6 +82,6 @@ If you would like to contribute to this repository by adding your own solutions 
 
 These problem sets and lectures are part of the CS50 Introduction to Programming with Python course offered by Harvard University. Thanks to the CS50 team for creating and maintaining the course.
 
-For more information about CS50, visit [CS50x on edX](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=0230161d23441dc17917d5f22dd9cbc8&position=3&linked_from=autocomplete&c=autocomplete).
+For more information about CS50, visit [CS50 Python on edX](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=0230161d23441dc17917d5f22dd9cbc8&position=3&linked_from=autocomplete&c=autocomplete).
 
 Happy coding!
