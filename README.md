@@ -1,6 +1,6 @@
 # CS50 Introduction to Programming - Problem Sets and Lectures
 
-This repository contains solutions and explanations for the problem sets in CS50's Introduction to Programming with Python. The course is divided into ten weeks, each covering various programming concepts. Below is a list of lectures and corresponding problem sets to be completed:
+This repository contains my solutions for the problem sets in CS50's Introduction to Programming with Python. The course is divided into ten weeks, each covering various programming concepts. Below is a list of lectures and corresponding problem sets to be completed:
 
 ## Lectures and Problem Sets
 
