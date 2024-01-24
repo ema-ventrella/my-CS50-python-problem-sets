@@ -58,12 +58,6 @@ This repository contains my solutions for the problem sets in CS50's Introductio
      - Introduction to object-oriented programming.
      - Implementing classes and objects.
 
-### Week 9: The Rest
-   - **Lecture:** [Week 9 Lecture](https://cs50.harvard.edu/python/2022/weeks/9/)
-   - **Problem Set:** [Problem Set 9](./pset9)
-     - Covering remaining advanced topics.
-     - Final problem set to test comprehensive understanding.
-
 ## Getting Started
 
 To use this repository, clone it to your local machine using the following command:
